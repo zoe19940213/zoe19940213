@@ -4,7 +4,7 @@
 
 🇹🇼 Taiwan
 
-💡 HTML/CSS/Javascript
+💡 HTML/CSS/Javascript/Vue
 
 ✉️ <a href="mailto:zoe19940213@gmail.com">zoe19940213@gmail.com</a>
 
